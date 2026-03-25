@@ -9,7 +9,7 @@ Don't forget to ⭐ star the repository if you like it!
 
 ## 👨‍💻 Author
 
-**Abdullah Moiz**
+**Jyoti Dhiman**
 
 ---
 
